@@ -14,6 +14,4 @@ This repository contains CCNA 200‑301 completed labs, built in Cisco Packet Tr
 
 ### Day 4 - [Basic Device Security and Encryption](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/981039cb949d4b49400c50046b92e9ca9e09495c/Day%204%20-%20Basic%20Device%20Security%20and%20Encryption)
 
-### Day 5  - No Lab
-
-### Day 6 Lab - [Ethernet LAN Switching](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%206%20Lab%20-%20Ethernet%20LAN%20Switching)
+### Day 5/6 Lab - [Ethernet LAN Switching](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%206%20Lab%20-%20Ethernet%20LAN%20Switching)
