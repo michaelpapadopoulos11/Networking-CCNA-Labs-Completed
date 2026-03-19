@@ -17,3 +17,7 @@ This repository contains CCNA 200‑301 completed labs, built in Cisco Packet Tr
 ### Day 5/6 Lab - [Ethernet LAN Switching](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%206%20Lab%20-%20Ethernet%20LAN%20Switching)
 
 ### Day 7/8 - [Configuring IPv4 Addresses](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/08474b2005e37d4006717b90426d9fa51065b9a4/Day%208%20-%20IPv4%20Addresses)
+
+### Day 9/11 (Pt 1) - [Configuring Static Routes](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/c4f1f26e2865f07c657925f4fb43d3b501e33f9c/Day%2011%20Pt%201%20-%20Configuring%20Static%20Routes)
+
+### Day 9/11 (Pt 2) - [Configuring Static Routes (Troubleshooting)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/c4f1f26e2865f07c657925f4fb43d3b501e33f9c/Day%2011%20Pt%202%20-%20Configuring%20Static%20Routes%20Troubleshoot)
