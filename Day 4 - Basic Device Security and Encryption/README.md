@@ -4,4 +4,5 @@ A short introductory lab focused on securing Cisco IOS devices. I learned the di
 
 *Didn't include the Day 3 lab because it was already pre-configured.*
 
+## Topology Screenshot
 <img width="1393" height="876" alt="day 4 basic device security" src="https://github.com/user-attachments/assets/cfa6eaf3-ff54-4c3a-8fef-04abd0c9f594" />
