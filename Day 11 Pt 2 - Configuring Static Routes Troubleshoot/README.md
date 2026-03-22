@@ -13,4 +13,5 @@ In this lab, several routing and addressing errors were intentionally introduced
 ### R3
 - Corrected a misconfigured IPv4 address (`192.168.23.3` → `192.168.13.3`).
 
+## Topology Screenshot
 <img width="1245" height="875" alt="Configuring Static Routing Troubleshoot" src="https://github.com/user-attachments/assets/8781cee5-3059-43b3-8677-f4bb0fdc308c" />
