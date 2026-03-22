@@ -9,4 +9,6 @@ This lab focuses on choosing the correct cable type when connecting different ne
 - **R1 ↔ R3 (Single‑Mode Fibre)** — The routers are 3km apart. This exceeds the practical range of multimode fibre, so single‑mode fibre is used for long‑distance connectivity.
 
 - **R3 ↔ R4 (Multimode Fibre)** — The distance is 250m. This is too long for UTP (100m max) but well within multimode fibre’s range, so multimode is the appropriate choice here.
+
+## Topology Screenshot
 <img width="1392" height="875" alt="Day 02 Flashcards - Interfaces and Cables" src="https://github.com/user-attachments/assets/80468fc1-a043-4b7b-a0c2-401a7b08fccf" />
