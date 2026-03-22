@@ -1,6 +1,6 @@
 # CCNA 200‑301 Networking Labs
 
-This repository contains CCNA 200‑301 completed labs, built in Cisco Packet Tracer. Each lab includes a completed Packet Tracer file as well as a topology screenshot. The labs follow the Jeremy’s IT Lab learning path as part of my progress towards building more practical networking skills.
+This repo contains my completed CCNA 200‑301 Networking labs and was built using Cisco Packet Tracer Version 9.0. Each day includes the completed Packet Tracer file, a topology screenshot as well as some general notes I took based on the lab work. These labs are mostly based on Jeremy’s IT Lab learning path and represent my ongoing progress toward building practical networking skills.
 
 ---
 
