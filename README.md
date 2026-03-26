@@ -21,3 +21,6 @@ This repo contains my completed CCNA 200‑301 Networking labs and was built usi
 ### Day 9/11 (Pt 2) - [Configuring Static Routes (Troubleshooting)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/c4f1f26e2865f07c657925f4fb43d3b501e33f9c/Day%2011%20Pt%202%20-%20Configuring%20Static%20Routes%20Troubleshoot)
 
 ### Day 12/15 - [Subnetting / VLSM and Configuring Static Routes](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%2015%20-%20Subnetting%20%3A%20VLSM%20%3A%20Configuring%20Static%20Routes)
+
+
+### Day 16 - [Intro to VLANs (Part 1)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%2016%20-%20VLANS)
