@@ -24,3 +24,6 @@ This repo contains my completed CCNA 200‑301 Networking labs and was built usi
 
 
 ### Day 16 - [Intro to VLANs (Part 1)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%2016%20-%20VLANS)
+
+
+### Day 17 - [VLANS (Part 2) - Trunking & 'Router on a stick'](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%2017%20Lab%20-%20VLANs%20(Part%202)%20Trunking%20&%20ROAS)
