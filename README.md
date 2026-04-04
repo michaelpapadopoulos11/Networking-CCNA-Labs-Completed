@@ -22,12 +22,22 @@ This repo contains my completed CCNA 200‑301 Networking labs and was built usi
 
 ### Day 12/15 - [Subnetting / VLSM and Configuring Static Routes](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%2015%20-%20Subnetting%20%3A%20VLSM%20%3A%20Configuring%20Static%20Routes)
 
-
 ### Day 16 - [Intro to VLANs (Part 1)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%2016%20-%20VLANS)
-
 
 ### Day 17 - [VLANS (Part 2) - Trunking & 'Router on a stick'](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%2017%20Lab%20-%20VLANs%20(Part%202)%20Trunking%20&%20ROAS)
 
 ### Day 18 - [Multilayer Switches](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%2018%20-%20Multilayer%20Switching)
 
 ### Day 19/20 - [Spanning-Tree Protocol](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%2020%20-%20Spanning-Tree%20Protocol)
+
+##
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1e494772-9e29-4aa9-8ef0-c0e36de9162a" alt="Cisco Logo" height="90">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/e7c4a0b7-8f0f-4314-8667-3a129efc5e01" alt="Packet Tracer Logo" height="90">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/c7d1e12f-a2e7-4062-b57b-b5df7348cc40" alt="ExSim Logo" height="90">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/0c0a9c1a-d2b4-419e-a7aa-3d54b2e2fd44" alt="Networking Icons" height="90">
+</p>
