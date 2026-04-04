@@ -33,11 +33,12 @@ This repo contains my completed CCNA 200‑301 Networking labs and was built usi
 ##
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1e494772-9e29-4aa9-8ef0-c0e36de9162a" alt="Cisco Logo" height="90">
+  <img src="https://github.com/user-attachments/assets/1e494772-9e29-4aa9-8ef0-c0e36de9162a" alt="Cisco Logo" height="80">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/e7c4a0b7-8f0f-4314-8667-3a129efc5e01" alt="Packet Tracer Logo" height="90">
+  <img src="https://github.com/user-attachments/assets/e7c4a0b7-8f0f-4314-8667-3a129efc5e01" alt="Packet Tracer Logo" height="80">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/c7d1e12f-a2e7-4062-b57b-b5df7348cc40" alt="ExSim Logo" height="90">
+  <img src="https://github.com/user-attachments/assets/c7d1e12f-a2e7-4062-b57b-b5df7348cc40" alt="ExSim Logo" height="80">
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/0c0a9c1a-d2b4-419e-a7aa-3d54b2e2fd44" alt="Networking Icons" height="90">
+  <img src="https://github.com/user-attachments/assets/0c0a9c1a-d2b4-419e-a7aa-3d54b2e2fd44" alt="Networking Icons" height="70">
 </p>
+
