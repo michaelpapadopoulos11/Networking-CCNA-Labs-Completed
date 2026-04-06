@@ -30,7 +30,10 @@ This repo contains my completed CCNA 200‑301 Networking labs and was built usi
 
 ### Day 19/20 - [Analyzing Spanning-Tree Protocol (STP)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%2020%20-%20Spanning-Tree%20Protocol)
 
+### Day 21 - [Configuring STP (PVST+)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%2021%20-%20Configuring%20STP)
+
 ##
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1e494772-9e29-4aa9-8ef0-c0e36de9162a" alt="Cisco Logo" height="80">
