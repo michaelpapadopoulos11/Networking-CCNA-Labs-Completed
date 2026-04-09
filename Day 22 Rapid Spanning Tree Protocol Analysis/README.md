@@ -101,5 +101,5 @@ SW1(config-if)#
 
 ## Final Topology:
 
-![day-22-final-top](https://github.com/user-attachments/assets/437d4685-a438-4c12-8bce-4fa42e833d1f)
+![day-22-final-top](https://github.com/user-attachments/assets/9c0c2387-682d-4ac0-b74f-c8af5cc8fe39)
 
