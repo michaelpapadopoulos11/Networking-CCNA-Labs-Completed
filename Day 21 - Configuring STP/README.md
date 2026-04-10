@@ -1,4 +1,4 @@
-# STP Configuration and Analysis Lab
+# Day 21 - STP Configuration and Analysis Lab
 
 This lab focused on identifying the root bridge, configuring primary and secondary STP roots, modifying interface costs and priorities, and enabling PortFast and BPDU Guard on access ports. All work was performed on a pre‑configured Packet Tracer topology.
 
