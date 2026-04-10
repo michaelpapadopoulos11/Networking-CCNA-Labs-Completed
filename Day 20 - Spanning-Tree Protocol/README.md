@@ -1,4 +1,4 @@
-# Day 20 — Spanning Tree Protocol (STP) Analysis
+# Day 20 - Spanning Tree Protocol (STP) Analysis
 
 This lab was preconfigured and focused on analysing Spanning-Tree Protocol in a small network. The objective was to identify the root bridge, determine root ports, and classify designated and non‑designated ports.
 
