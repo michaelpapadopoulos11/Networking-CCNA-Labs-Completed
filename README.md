@@ -34,6 +34,8 @@ This repo contains my completed CCNA 200‑301 Networking labs and was built usi
 
 ### Day 22 - [Rapid STP / Rapid PVST+ Analysis](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2022%20-%20Rapid%20Spanning%20Tree%20Protocol%20Analysis)
 
+### Day 23 - [Etherchannel](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2023%20-%20Etherchannel)
+
 ##
 
 
