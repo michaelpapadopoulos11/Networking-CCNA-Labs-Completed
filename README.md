@@ -6,33 +6,33 @@ This repo contains my completed CCNA 200‑301 Networking labs and was built usi
 
 ## Lab Index
 
-### Day 1 - [Introduction to Packet Tracer](./Day%201%20-%20Introduction%20to%20Packet%20Tracer/)
+### Day 1 - [Introduction to Packet Tracer](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%201%20-%20Introduction%20to%20Packet%20Tracer)
 
-### Day 2 - [Interfaces and Cables](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/70b90ce31a675fe641101e1e0976ab40459b137b/Day%2002%20%20-%20Interfaces%20and%20Cables)
+### Day 2 - [Interfaces and Cables](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%202%20-%20Interfaces%20and%20Cables)
 
-### Day 3/4 - [Basic Device Security and Encryption](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/981039cb949d4b49400c50046b92e9ca9e09495c/Day%204%20-%20Basic%20Device%20Security%20and%20Encryption)
+### Day 3/4 - [Basic Device Security and Encryption](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%204%20-%20Basic%20Device%20Security%20and%20Encryption)
 
-### Day 5/6 - [Ethernet LAN Switching](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%206%20Lab%20-%20Ethernet%20LAN%20Switching)
+### Day 5/6 - [Ethernet LAN Switching](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%206%20-%20Ethernet%20LAN%20Switching)
 
-### Day 7/8 - [Configuring IPv4 Addresses](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/08474b2005e37d4006717b90426d9fa51065b9a4/Day%208%20-%20IPv4%20Addresses)
+### Day 7/8 - [Configuring IPv4 Addresses](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%208%20-%20IPv4%20Addresses)
 
-### Day 9/11 (Pt 1) - [Configuring Static Routes](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/c4f1f26e2865f07c657925f4fb43d3b501e33f9c/Day%2011%20Pt%201%20-%20Configuring%20Static%20Routes)
+### Day 9/11 (Pt 1) - [Configuring Static Routes](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2011%20Pt%201%20-%20Configuring%20Static%20Routes)
 
-### Day 9/11 (Pt 2) - [Configuring Static Routes (Troubleshooting)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/c4f1f26e2865f07c657925f4fb43d3b501e33f9c/Day%2011%20Pt%202%20-%20Configuring%20Static%20Routes%20Troubleshoot)
+### Day 9/11 (Pt 2) - [Configuring Static Routes (Troubleshooting)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2011%20Pt%202%20-%20Configuring%20Static%20Routes%20Troubleshoot)
 
-### Day 12/15 - [Subnetting / VLSM and Configuring Static Routes](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%2015%20-%20Subnetting%20%3A%20VLSM%20%3A%20Configuring%20Static%20Routes)
+### Day 12/15 - [Subnetting / VLSM and Configuring Static Routes](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2015%20-%20Subnetting%20%3A%20VLSM%20%3A%20Configuring%20Static%20Routes)
 
-### Day 16 - [Intro to VLANs (Part 1)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%2016%20-%20VLANS)
+### Day 16 - [Intro to VLANs (Part 1)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2016%20-%20VLANS)
 
-### Day 17 - [VLANS (Part 2) - Trunking & "Router on a stick"](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%2017%20Lab%20-%20VLANs%20(Part%202)%20Trunking%20&%20ROAS)
+### Day 17 - [VLANS (Part 2) - Trunking & "Router on a stick"](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2017%20-%20VLANs%20(Part%202)%20Trunking%20%26%20ROAS)
 
-### Day 18 - [Multilayer Switches](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%2018%20-%20Multilayer%20Switching)
+### Day 18 - [Multilayer Switches](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2018%20-%20Multilayer%20Switching)
 
-### Day 19/20 - [Analyzing Spanning-Tree Protocol (STP)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%2020%20-%20Spanning-Tree%20Protocol)
+### Day 19/20 - [Analyzing Spanning-Tree Protocol (STP)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2020%20-%20Spanning-Tree%20Protocol)
 
-### Day 21 - [Configuring STP (PVST+)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%2021%20-%20Configuring%20STP)
+### Day 21 - [Configuring STP (PVST+)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2021%20-%20Configuring%20STP)
 
-### Day 22 - [Rapid STP / Rapid PVST+ Analysis](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/Day%2022%20Rapid%20Spanning%20Tree%20Protocol%20Analysis)
+### Day 22 - [Rapid STP / Rapid PVST+ Analysis](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2022%20-%20Rapid%20Spanning%20Tree%20Protocol%20Analysis)
 
 ##
 
