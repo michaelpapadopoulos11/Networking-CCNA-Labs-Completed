@@ -1,8 +1,8 @@
-# Day 23 — EtherChannel Configuration
+# Day 23 — Etherchannel Configuration
 
-This lab configures multiple EtherChannels (Layer 2 and Layer 3), verifies load‑balancing behavior, and ensures end‑to‑end connectivity to SRV1.
+This lab configures multiple Etherchannels (Layer 2 and Layer 3), verifies load‑balancing behavior, and ensures end‑to‑end connectivity to SRV1.
 
-## 1. Configure Layer 2 EtherChannel between ASW1 and DSW1 using LACP - Configure it as a trunk.
+## 1. Configure Layer 2 Etherchannel between ASW1 and DSW1 using LACP - Configure it as a trunk.
 
 After checking the `sh spanning tree` on ASW1, we can see that G0/1 is a root port and G0/2 is an alternate port, meaning G0/2 won't forward or recieve any frames and is acting as a backup.
 
@@ -42,7 +42,7 @@ After checking `do sh eth sum` we can see that Po1 is marked as "SU", meaning it
 
 --- 
 
-## 2. Configure Layer 2 EtherChannel between ASW2 and DSW2 using PAgP - Configure it as a trunk.
+## 2. Configure Layer 2 Etherchannel between ASW2 and DSW2 using PAgP - Configure it as a trunk.
 
 This config will be very similar to step 1 with the exception of the etherchannel mode, from LACP to PAgP now.
 
@@ -75,7 +75,7 @@ After viewing the `do sh eth sum` we can see that Po1 is marked as SU which is a
 
 ---
 
-## 3. Configure Layer 3 EtherChannel between DSW1 and DSW2 using static EtherChannel.
+## 3. Configure Layer 3 Etherchannel between DSW1 and DSW2 using static Etherchannel.
 
 ### DSW1 Config:
 ```
