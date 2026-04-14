@@ -36,6 +36,7 @@ This repo contains my completed CCNA 200‑301 Networking labs and was built usi
 
 ### Day 23 - [Etherchannel](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2023%20-%20Etherchannel)
 
+### Day 24 - [Floating Static Routes](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2024%20-%20Floating%20Static%20Routes)
 ##
 
 
