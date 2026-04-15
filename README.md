@@ -40,6 +40,8 @@ This repo contains my completed CCNA 200‑301 Networking labs and was built usi
 
 ### Day 25 - [Configuring EIGRP](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2025%20-%20Configuring%20EIGRP)
 
+### Day 26 - [Configuring OSPF (Part 1)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2026%20-%20Configuring%20OSPF%20(Part%201))
+
 ##
 
 
