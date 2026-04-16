@@ -43,5 +43,5 @@ interface vlan 10
 ```
 
 ---
-Final Topology:
+## Final Topology:
 <img width="1391" height="876" alt="day 18 lab pic" src="https://github.com/user-attachments/assets/9ac087fe-a2c0-42f0-a3a5-beaac4e8d667" />
