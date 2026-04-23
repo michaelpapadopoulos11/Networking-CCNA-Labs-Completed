@@ -44,6 +44,8 @@ This repo contains my completed CCNA 200‑301 Networking labs and was built usi
 
 ### Day 27 - [Configuring OSPF (Part 2)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2027%20-%20Configuring%20OSPF%20(Part%202))
 
+### Day 28/29 - [Configuring HSRP](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2029%20-%20HSRP%20Configuration)
+
 ##
 
 
