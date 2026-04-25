@@ -1,4 +1,4 @@
-## Day 30 - TCP/UDP, Wireshark Demo
+## Day 30 - Understanding TCP/UDP with Wireshark
 
 In this lab I was tasked to install Wireshark, a packet capturing software, and record my some network activity on my computer. The purpose of this lab is to understand TCP and UDP process in the real-world.
 
