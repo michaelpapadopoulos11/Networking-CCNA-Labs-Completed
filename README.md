@@ -46,6 +46,8 @@ This repo contains my completed CCNA 200‑301 Networking labs and was built usi
 
 ### Day 28/29 - [Configuring HSRP](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2029%20-%20HSRP%20Configuration)
 
+### Day 30 - [Understanding TCP/UDP with Wireshark](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2030%20-%20Understanding%20TCP%20and%20UDP/readme)
+
 ##
 
 
