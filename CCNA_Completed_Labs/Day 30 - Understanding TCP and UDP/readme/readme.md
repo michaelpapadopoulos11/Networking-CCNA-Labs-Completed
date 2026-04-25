@@ -1,8 +1,8 @@
 ## Day 30 - Understanding TCP/UDP with Wireshark
 
-In this lab I was tasked to install Wireshark, a packet capturing software, and record my some network activity on my computer. The purpose of this lab is to understand TCP and UDP process in the real-world.
+The goal of this lab was to use Wireshark to capture and analyse live network traffic on my PC, demonstrating how TCP and UDP protocols operate in a real-world environment.
 
-After installing Wireshark, I began by recording a capture of my PCs network. In this capture I simply:
+After installing Wireshark, I began capturing my PCs network. In this capture I simply:
 
 1. Opened Google Chrome
 2. Typed "youtube.com" in the search bar
@@ -26,11 +26,11 @@ By using `tcp.flags.syn == 1` we can find the origin of a three-way handshake in
 The "relative sequence number" is set to 1, indicating this is the beginning of the SYN (Sychronise phase).
 
 ### The Handshake Sequence:
-**1. Packet 238 [SYN] -** My PC (Source Port 57,071) sends a SYN request to the server (Destination Port 80).
+**1. Packet 238 [SYN] -** My PC (Source Port 57,071) sends a Synchronize request to the server (Destination Port 80). The relative sequence number is 0, marking the start of the three-way handshake between the PC and end-host server.
 
-**2. Packet 249 [SYN-ACK] -** The server acknoledges packet 238 and responds from itself, Source port 80, to the Destination port of the PC (Destination Port 57,071).
+**2. Packet 249 [SYN-ACK] -** The server acknowledges packet 238 and responds from its own Source Port 80 to the Destination Port of the PC (Port 57,071).
 
-**3. Packet 250 [ACK] -** The PC recieved the acknoledgement from the server and the three-way handshake is completed!
+**3. Packet 250 [ACK] -** The PC received the acknowledgment from the server, and the three-way handshake is complete! The connection state is now Established.
 
 <p align="center">
   <img width="45%" alt="d30-step3" src="https://github.com/user-attachments/assets/1f84e2eb-7054-47b3-a6b4-08d5fa10c805" />
