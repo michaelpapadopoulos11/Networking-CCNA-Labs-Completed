@@ -49,6 +49,8 @@ This repo contains my completed CCNA 200‑301 Networking labs and was built usi
 ### Day 30 - [Understanding TCP/UDP with Wireshark](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2030%20-%20Understanding%20TCP%20and%20UDP/readme)
 
 ### Day 31 - [IPv6 Configuration (Part 1)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2031%20-%20IPv6%20Configuration%20(Part%201))
+
+### Day 32 - [IPv6 Configuration (Part 2)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2032%20-%20IPv6%20Configuration%20(Part%202))
 ##
 
 
