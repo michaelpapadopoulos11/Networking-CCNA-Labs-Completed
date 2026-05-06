@@ -51,8 +51,10 @@ This repo contains my completed CCNA 200‑301 Networking labs and was built usi
 ### Day 31 - [IPv6 Configuration (Part 1)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2031%20-%20IPv6%20Configuration%20(Part%201))
 
 ### Day 32 - [IPv6 Configuration (Part 2)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2032%20-%20IPv6%20Configuration%20(Part%202))
-##
 
+### Day 33 - [IPv6 Configuring Static Routes (Part 3)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2033%20-%20Configuring%20IPv6%20Static%20Routes)
+
+##
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1e494772-9e29-4aa9-8ef0-c0e36de9162a" alt="Cisco Logo" height="80">
