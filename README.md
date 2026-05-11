@@ -54,7 +54,9 @@ This repo contains my completed CCNA 200‑301 Networking labs and was built usi
 
 ### Day 33 - [IPv6 Configuring Static Routes (Part 3)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2033%20-%20Configuring%20IPv6%20Static%20Routes)
 
-### Day 34 - [Standard ACLs](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2034%20-%20Standard%20ACLs)
+### Day 34 - [Configuring Standard ACLs](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2034%20-%20Standard%20ACLs)
+
+### Day 35 - [Configuring Extended ACLs](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2035%20-%20Extended%20ACLs)
 
 ##
 
