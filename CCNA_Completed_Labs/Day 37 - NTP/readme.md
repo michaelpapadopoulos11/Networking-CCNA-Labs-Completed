@@ -93,6 +93,8 @@ R3(config)#ntp server 192.168.13.1 key 1
 R3(config)#
 ```
 
+The above configuration is essentially doing the same as we did to R2 but this time to R3.
+
 ---
 
 ## 4. Configure NTP to update the hardware calendars of R1, R2, and R3. 
