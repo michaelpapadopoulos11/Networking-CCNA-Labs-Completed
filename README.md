@@ -58,6 +58,7 @@ This repo contains my completed CCNA 200‑301 Networking labs and was built usi
 
 ### Day 35 - [Configuring Extended ACLs](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2035%20-%20Extended%20ACLs)
 
+### Day 37 - [Network Time Protocol (NTP)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2037%20-%20NTP)
 ##
 
 <p align="center">
