@@ -77,7 +77,7 @@ The above CLI shows us the host table of devices we’ve made for R1, assigning 
 
 ---
 
-## 4. **USE SIMULATION MODE FOR THIS STEP** From PC1, ping youtube.com by name and analyse the messages being sent.
+## 4. From PC1, ping youtube.com by name and analyse the messages being sent | (USE SIMULATION MODE FOR THIS STEP)
 
 **NOTE : Because R1 had already pinged PC1, PC1 already knows the MAC address of R1s default gateway, meaning PC1 doesn’t need to send an ARP request.**
 
@@ -87,15 +87,15 @@ The above CLI shows us the host table of devices we’ve made for R1, assigning 
 
 **1.** The DNS Query is made from **PC1** which travels to **Server 1 (1.1.1.1)**, then travels back to **PC1**.
 
-The above below captures the **DNS Query** as it’s  returned to **PC1**, the **DNS PDU** that has returned shows the IPv4 address of `172.217.6.78` (YouTube.com address) which **PC1** can now ping.
+The image below captures the **DNS Query** as it’s  returned to **PC1**, the **DNS PDU** that has returned shows the IPv4 address of `172.217.6.78` (YouTube.com address) which **PC1** can now ping.
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/560e7a13-8fb9-4103-b971-e2d5eb3a9e84" width="350" />
 </div>
 
-**2.** This shows the initial **ICMP request** that can now occur **(The whole ping wasn’t captured in the screenshot)**.
+**2.** This shows part of the **ICMP ping** process that can now occur.
 
-The image below shows the **PC1 PDU** information, the ICMP ping now has the IP destination of **youtube.com** (`172.217.6.78`), learned through the DNS Query process.
+The image below shows the **PC1 PDU** information, the ICMP ping now has the **destination IP** of **youtube.com** (`172.217.6.78`), learned through the DNS Query process.
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/0034bd21-0341-4d00-8722-4f0a4b03c511" width="350" />
