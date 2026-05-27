@@ -63,6 +63,8 @@ This repo contains my completed CCNA 200‑301 Networking labs and was built usi
 ### Day 38 - [DNS](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2038%20-%20DNS)
 
 ### Day 39 - [DHCP](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2039%20-%20DHCP)
+
+### Day 40 - [SNMP Configuration](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2040%20-%20SNMP%20Configuration/README.md)
 ##
 
 <p align="center">
