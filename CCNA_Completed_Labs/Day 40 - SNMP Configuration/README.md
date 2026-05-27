@@ -36,7 +36,7 @@ On PC1 we select: **PC1 ==> Desktop ==> MIB Browser ==> ‘Advanced’** and ent
 
 ### How long has R1 been running? (system uptime)
 
-By following the SNMP MIB directory to ‘.sysUpTime’ we can then select the ‘Get’ operation and find the system uptime value of **2 hours and 17 mins**.
+By following the **SNMP MIB directory** to ‘.sysUpTime’ we can then select the ‘Get’ operation and find the system uptime value of **2 hours and 17 mins**.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/775ca4b1-3099-431e-b11c-5ee827afac2b" width="55%">
@@ -52,7 +52,7 @@ Similarly, we select the ‘.sysName’ option in the **SNMB MIB table** and we 
 
 ### How many interfaces does R1 have?
 
-From the image below we can see that R1 has **4** interfaces.
+From the image below we can see that **R1 has 4 interfaces**.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/c82fab94-fffd-458c-845b-50e0c0901f95" width="55%">
@@ -95,4 +95,4 @@ R2(config)#do sh run | include host
 hostname R2
 R2(config)#
 ```
-Based on the above CLI we can see that **R1s** hostname has been changed to **R2!**.
+Based on the above CLI we can see that **R1s** hostname has been changed to **R2!**
