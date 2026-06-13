@@ -72,6 +72,8 @@ This repo contains my completed CCNA 200‑301 Networking labs and was built usi
 
 ### Day 45 - [Dynamic NAT / PAT](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2045%20-%20Dynamic%20NAT)
 
+### Day 46 - [Voice VLAN](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2046%20-%20Voice%20VLANS)
+
 ##
 
 <p align="center">
