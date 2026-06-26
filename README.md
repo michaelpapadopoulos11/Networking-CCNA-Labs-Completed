@@ -76,6 +76,8 @@ This repo contains my completed CCNA 200‑301 Networking labs and was built usi
 
 ### Day 49 - [Port Security](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2049%20-%20Port%20Security)
 
+### Day 50 - [DHCP Snooping](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2050%20-%20DHCP%20Snooping/readme.md)
+
 ##
 
 <p align="center">
