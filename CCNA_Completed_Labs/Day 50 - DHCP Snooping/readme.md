@@ -1,4 +1,4 @@
-# Day 49 - DHCP Snooping
+# Day 50 - DHCP Snooping
 
 ## Network:
 <img width="508" height="181" alt="d50-netw" src="https://github.com/user-attachments/assets/090de8e8-1e3a-48b1-af07-70a68a2f16ea" />
