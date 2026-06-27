@@ -11,6 +11,7 @@ R1>en
 R1#conf t
 Enter configuration commands, one per line.  End with CNTL/Z.
 R1(config)#ip dhcp excluded-address 192.168.1.1 192.168.1.9
+R1(config)#
 R1(config)#ip dhcp pool POOL1
 R1(dhcp-config)#network 192.168.1.0 255.255.255.0
 R1(dhcp-config)#default-router 192.168.1.1
@@ -18,7 +19,7 @@ R1(dhcp-config)#exit
 R1(config)#
 ```
 
-In the above CLI, I set up R1 as a DHCP server by excluding the first nine IPs and creating a pool that hands out addresses on the 192.168.1.0/24 network with 192.168.1.1 as the default gateway.
+In the above CLI, I set up **R1** as a **DHCP server** by excluding the first nine IPs and creating a pool that hands out addresses on the **192.168.1.0/24 network** with **192.168.1.1 as the default gateway.**
 
 ---
 
@@ -41,20 +42,20 @@ SW1(config)#
 
 ### SW2 Config:
 ```
-SW1>en
-SW1#conf t
+SW2>en
+SW2#conf t
 Enter configuration commands, one per line.  End with CNTL/Z.
-SW1(config)#ip dhcp snooping
-SW1(config)#ip dhcp snooping vlan 1
-SW1(config)#no ip dhcp snooping information option
-SW1(config)#
-SW1(config)#int g0/2
-SW1(config-if)#ip dhcp snooping trust
-SW1(config-if)#exit
-SW1(config)#
+SW2(config)#ip dhcp snooping
+SW2(config)#ip dhcp snooping vlan 1
+SW2(config)#no ip dhcp snooping information option
+SW2(config)#
+SW2(config)#int g0/1
+SW2(config-if)#ip dhcp snooping trust
+SW2(config-if)#exit
+SW2(config)#
 ```
 
-I enabled DHCP snooping on both SW1 and SW2, applied it to VLAN 1, then disabled Option 82, and marked the uplink interface as trusted so DHCP traffic can pass correctly.
+I enabled DHCP snooping on both **SW1** and **SW2**, applied it to VLAN 1, then **disabled Option 82**, and **marked the uplink interface as trusted** so DHCP traffic can pass correctly.
 
 ---
 
@@ -89,9 +90,9 @@ SW2#
 SW2#
 ```
 
-Based on the above CLI, Dynamic ARP Inspection was enabled on both SW1 and SW2, turned on all the extra validation checks (`ip`, `src-mac`, `dst-mac`), and trusted the uplink interfaces so ARP traffic from other switches/routers is allowed.
+Based on the above CLI, **Dynamic ARP Inspection was enabled** on both **SW1** and **SW2**, turned on all the extra validation checks (`ip`, `src-mac`, `dst-mac`), and **trusted the uplink interfaces** so ARP traffic from other switches/routers is allowed.
 
-From the image below, we can see that PC1 has been assigned an IP Address through DHCP and is successfully able to ping its default gateway.
+From the image below, we can see that PC1 has been assigned an IP Address through DHCP and is successfully able to ping its default gateway!
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/81d6a833-198f-4fff-8a42-137f24c1d3cd" width="350" />
