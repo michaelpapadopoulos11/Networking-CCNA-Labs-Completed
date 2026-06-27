@@ -78,6 +78,7 @@ This repo contains my completed CCNA 200‑301 Networking labs and was built usi
 
 ### Day 50 - [DHCP Snooping](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2050%20-%20DHCP%20Snooping/readme.md)
 
+### Day 51 - [Dynamic ARP Inspection](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2051%20-%20Dynamic%20ARP%20Inspection)
 ##
 
 <p align="center">
