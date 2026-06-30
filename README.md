@@ -82,6 +82,8 @@ This repo contains my completed CCNA 200‑301 Networking labs and was built usi
 
 ### Day 52 - [STP & Synchronisation](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2052%20-%20STP%20%26%20Synchronization)
 
+### Day 53 - [GRE Tunnels](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2053%20-%20GRE%20Tunnels)
+
 ##
 
 <p align="center">
