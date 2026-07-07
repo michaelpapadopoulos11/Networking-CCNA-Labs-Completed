@@ -1,6 +1,11 @@
 # Day 31 - IPv6 Configuration (Part 1)
 
-## Network:
+## Overview
+IPv6 is the newer Internet Protocol designed to replace IPv4 as the number of connected devices continues to grow. Its main purpose is to provide a massively larger address space and improve overall network efficiency.
+
+This lab introduces the basics of IPv6 by assigning addresses to the router interfaces and multiple end‑hosts, giving a clear first look at how IPv6 addressing works in a simple network.
+
+## Network Topology:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/977c060e-d978-4fca-989b-2df2467e3af7" width="450" />
 </p>
@@ -49,6 +54,7 @@ We can see the the R1 interfaces were setup correctly, as well as the link-local
 ## 4. Configure the appropriate IPv6 addresses on each PC. Configure the correct default gateway.
 
 We now assign:
+
 **PC1 -** IPv6 address of 2001:db8:0:1::2/64 | Default Gateway of R1's G0/0 (2001:db8:0:1::1).
 
 **PC2 -** IPv6 address of 2001:db8:0:2::2/64 | Default Gateway of R1's G0/1 (2001:db8:0:2::1)
