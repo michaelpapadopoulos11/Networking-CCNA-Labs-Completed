@@ -1,4 +1,4 @@
-# Completed CCNA 200‑301 Networking Labs
+## Completed CCNA 200‑301 Networking Labs
 
 This repository contains the majority of labs that I completed while studying for the CCNA and expanding my knowledge of core networking concepts. Each lab includes the device configurations used, topology screenshots, and general notes taken during the labs.
 
@@ -6,7 +6,7 @@ This repository contains the majority of labs that I completed while studying fo
 
 ---
 
-## Lab Index
+### Lab Index
 
 #### Day 1 - [Introduction to Packet Tracer](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%201%20-%20Introduction%20to%20Packet%20Tracer)
 
