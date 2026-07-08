@@ -9,7 +9,7 @@ After installing Wireshark, I began capturing my PCs network. In this capture I 
 3. Typed a video into YouTubes search bar
 4. Watched a video for around 30 seconds and stopped the recording.
 
-After the capture was completed Wireshark recorded **5,304 Packets**.
+After the capture was completed Wireshark recorded **5,304 Packets** as shown in the image below.
 
 <p align="center">
   <img width="855" height="573" alt="d30-step1" src="https://github.com/user-attachments/assets/c765e092-aa9e-4795-bbc3-c730e99adcf6" />
@@ -18,6 +18,8 @@ After the capture was completed Wireshark recorded **5,304 Packets**.
 ## Find a TCP three-way handshake (connection establishment).
 
 By using `tcp.flags.syn == 1` we can find the origin of a three-way handshake in the recorded capture.
+
+When I use `tcp.flags.syn == 1`, Wireshark filters the capture to show only packets with the **SYN flag** set. Since a SYN packet is what starts a TCP connection, this filter quickly reveals the beginning of a three‑way handshake in the recording.
 
 <p align="center">
   <img width="1501" height="944" alt="d30-step2" src="https://github.com/user-attachments/assets/14d4926b-48bf-466a-9a07-0ec35d97b373" />
