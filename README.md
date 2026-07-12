@@ -16,9 +16,9 @@ This repository contains the majority of labs that I completed while studying fo
 
 #### Day 5/6 - [Ethernet LAN Switching](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%206%20-%20Ethernet%20LAN%20Switching) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%206%20-%20Ethernet%20LAN%20Switching/readme.md)
 
-#### Day 7/8 - [Configuring IPv4 Addresses](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%208%20-%20IPv4%20Addresses) - [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%208%20-%20IPv4%20Addresses/readme.md)
+#### Day 7/8 - [Configuring IPv4 Addresses](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%208%20-%20IPv4%20Addresses) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%208%20-%20IPv4%20Addresses/readme.md)
 
-#### Day 9/11 (Pt 1) - [Configuring Static Routes](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2011%20Pt%201%20-%20Configuring%20Static%20Routes)
+#### Day 9/11 (Pt 1) - [Configuring Static Routes](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2011%20Pt%201%20-%20Configuring%20Static%20Routes) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2011%20Pt%201%20-%20Configuring%20Static%20Routes/readme.md)
 
 #### Day 9/11 (Pt 2) - [Configuring Static Routes (Troubleshooting)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2011%20Pt%202%20-%20Configuring%20Static%20Routes%20Troubleshoot)
 
@@ -36,7 +36,7 @@ This repository contains the majority of labs that I completed while studying fo
 
 #### Day 22 - [Rapid STP / Rapid PVST+ Analysis](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2022%20-%20Rapid%20Spanning%20Tree%20Protocol%20Analysis)
 
-#### Day 23 - [Etherchannel](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2023%20-%20Etherchannel) + [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2023%20-%20Etherchannel/Etherchannel%20Notes)
+#### Day 23 - [Etherchannel](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2023%20-%20Etherchannel) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2023%20-%20Etherchannel/Etherchannel%20Notes)
 
 #### Day 24 - [Floating Static Routes](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2024%20-%20Floating%20Static%20Routes)
 
