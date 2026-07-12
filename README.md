@@ -54,7 +54,7 @@ This repository contains the majority of labs that I completed while studying fo
 
 #### Day 32 - [IPv6 Configuration (Part 2)](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2032%20-%20IPv6%20Configuration%20(Part%202)/readme.md) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2032%20-%20IPv6%20Configuration%20(Part%202)/README.md)
 
-#### Day 33 - [IPv6 Configuring Static Routes (Part 3)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2033%20-%20Configuring%20IPv6%20Static%20Routes)
+#### Day 33 - [IPv6 Configuring Static Routes (Part 3)](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2033%20-%20Configuring%20IPv6%20Static%20Routes/readme.md) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2033%20-%20Configuring%20IPv6%20Static%20Routes)
 
 #### Day 34 - [Configuring Standard ACLs](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2034%20-%20Standard%20ACLs)
 
