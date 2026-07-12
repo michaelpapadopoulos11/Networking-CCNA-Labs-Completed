@@ -78,7 +78,7 @@ This repository contains the majority of labs that I completed while studying fo
 
 #### Day 49 - [Port Security](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2049%20-%20Port%20Security/readme.md) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2049%20-%20Port%20Security/README.md)
 
-#### Day 50 - [DHCP Snooping](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2050%20-%20DHCP%20Snooping/readme.md)
+#### Day 50 - [DHCP Snooping](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2050%20-%20DHCP%20Snooping/readme.md) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2050%20-%20DHCP%20Snooping/README.md)
 
 #### Day 51 - [Dynamic ARP Inspection](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2051%20-%20Dynamic%20ARP%20Inspection)
 
