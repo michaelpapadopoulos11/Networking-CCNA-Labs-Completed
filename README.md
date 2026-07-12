@@ -1,8 +1,10 @@
-## Completed CCNA 200‑301 Networking Labs
+## Networking Labs & Notes (CCNA 200‑301) ⚙️
 
-This repository contains the majority of labs that I completed while studying for the CCNA and expanding my knowledge of core networking concepts. Each lab includes the device configurations used, topology screenshots, and general notes taken during the labs.
+This repo contains all the study material I created while preparing for the CCNA 200‑301 Networking exam. Each topic includes a Packet Tracer lab with full device configs, explanations of each command choice, and some practical tips that I learned while labbing. I’ve also included the notes that I took as I studied each Networking concept.
 
-**Credits:** Jeremy’s IT Labs for the original lab materials.
+This repo became the central place where I built my understanding of Networking, bringing together everything I learned about routing, switching, IPv4/IPv6, security features, wireless and troubleshooting.
+
+**Credits:** Jeremy’s IT Labs for the lab material.
 
 ---
 
