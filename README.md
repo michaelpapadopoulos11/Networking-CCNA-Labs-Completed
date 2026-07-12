@@ -82,7 +82,7 @@ This repository contains the majority of labs that I completed while studying fo
 
 #### Day 51 - [Dynamic ARP Inspection](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2051%20-%20Dynamic%20ARP%20Inspection/readme.md) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2051%20-%20Dynamic%20ARP%20Inspection/README.md)
 
-#### Day 52 - [STP & Synchronisation](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2052%20-%20STP%20%26%20Synchronization)
+#### Day 52 - [STP & Synchronisation](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2052%20-%20STP%20%26%20Synchronization/readme.md) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2052%20-%20STP%20%26%20Synchronization/README.md)
 
 #### Day 53/57 - [GRE Tunnels](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2053%20-%20GRE%20Tunnels)
 
