@@ -48,7 +48,7 @@ This repository contains the majority of labs that I completed while studying fo
 
 #### Day 28/29 - [Configuring HSRP](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2029%20-%20HSRP%20Configuration) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2029%20-%20HSRP%20Configuration)
 
-#### Day 30 - [Understanding TCP/UDP with Wireshark](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2030%20-%20Understanding%20TCP%20and%20UDP/readme)
+#### Day 30 - [Understanding TCP/UDP with Wireshark](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2030%20-%20Understanding%20TCP%20and%20UDP/readme) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2030%20-%20Understanding%20TCP%20and%20UDP/readme)
 
 #### Day 31 - [IPv6 Configuration (Part 1)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2031%20-%20IPv6%20Configuration%20(Part%201))
 
