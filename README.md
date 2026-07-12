@@ -22,9 +22,9 @@ This repository contains the majority of labs that I completed while studying fo
 
 #### Day 9/11 (Pt 2) - [Configuring Static Routes (Troubleshooting)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2011%20Pt%202%20-%20Configuring%20Static%20Routes%20Troubleshoot)
 
-#### Day 12/15 - [Subnetting / VLSM and Configuring Static Routes](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2015%20-%20Subnetting%20%3A%20VLSM%20%3A%20Configuring%20Static%20Routes) - [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2015%20-%20Subnetting%20%3A%20VLSM%20%3A%20Configuring%20Static%20Routes/readme.md)
+#### Day 12/15 - [Subnetting / VLSM and Configuring Static Routes](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2015%20-%20Subnetting%20%3A%20VLSM%20%3A%20Configuring%20Static%20Routes) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2015%20-%20Subnetting%20%3A%20VLSM%20%3A%20Configuring%20Static%20Routes/readme.md)
 
-#### Day 16 - [Intro to VLANs (Part 1)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2016%20-%20VLANS)
+#### Day 16 - [Intro to VLANs (Part 1)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2016%20-%20VLANS) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2016%20-%20VLANS/readme.md)
 
 #### Day 17 - [VLANS (Part 2) - Trunking & "Router on a stick"](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2017%20-%20VLANs%20(Part%202)%20Trunking%20%26%20ROAS)
 
