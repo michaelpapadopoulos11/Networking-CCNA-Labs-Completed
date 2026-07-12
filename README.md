@@ -86,7 +86,7 @@ This repository contains the majority of labs that I completed while studying fo
 
 #### Day 53/57 - [GRE Tunnels](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2053%20-%20GRE%20Tunnels/readme.md) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2053%20-%20GRE%20Tunnels/README.md)
 
-#### Day 58 - [Wireless LANs](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2058%20-%20Wireless%20LANs)
+#### Day 58 - [Wireless LANs](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2058%20-%20Wireless%20LANs/readme.md) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2058%20-%20Wireless%20LANs/README.md)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1e494772-9e29-4aa9-8ef0-c0e36de9162a" alt="Cisco Logo" height="80">
