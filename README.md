@@ -1,14 +1,14 @@
-## Networking Labs & Notes (CCNA 200‑301) ⚙️
+# Networking Labs & Notes (CCNA 200‑301) ⚙️
 
-This repo contains all the study material I created while preparing for the CCNA 200‑301 Networking exam. Each topic includes a Packet Tracer lab with full device configs, explanations of each command choice, and some practical tips that I learned while labbing. I’ve also included the notes that I took as I studied each Networking concept.
+This repo contains all the study material I created while preparing for the CCNA 200‑301 Networking exam. Each topic includes a unique Packet Tracer lab with device configs, explanations on  command choices, and some practical tips on what I learned while labbing. I’ve also included the notes that I took while studying for each Networking topic.
 
-This repo became the central place where I built my understanding of Networking, bringing together everything I learned about routing, switching, IPv4/IPv6, security features, wireless and troubleshooting.
+This repo became the central place where I built my understanding of Networking, bringing together everything I'd learnt about routing, switching, IPv4/6, security features, wireless and more!
 
 **Credits:** Jeremy’s IT Labs for the lab material.
 
 ---
 
-### Lab Index
+## 💻 Lab Index and Notes 📚
 
 #### Day 1 - [Introduction to Packet Tracer](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%201%20-%20Introduction%20to%20Packet%20Tracer) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%201%20-%20Introduction%20to%20Packet%20Tracer/readme.md)
 
@@ -90,7 +90,7 @@ This repo became the central place where I built my understanding of Networking,
 
 #### Day 58 - [Wireless LANs](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2058%20-%20Wireless%20LANs/readme.md) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2058%20-%20Wireless%20LANs/README.md)
 
-### [Remainder Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/tree/main/CCNA_Completed_Labs/Remainder%20Notes)
+### [Remainder Lab Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/tree/main/CCNA_Completed_Labs/Remainder%20Notes)
 
 ---
 
