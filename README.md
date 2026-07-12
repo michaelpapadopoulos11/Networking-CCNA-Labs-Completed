@@ -88,6 +88,10 @@ This repository contains the majority of labs that I completed while studying fo
 
 #### Day 58 - [Wireless LANs](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2058%20-%20Wireless%20LANs/readme.md) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2058%20-%20Wireless%20LANs/README.md)
 
+### [Remainder Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/tree/main/CCNA_Completed_Labs/Remainder%20Notes)
+
+---
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1e494772-9e29-4aa9-8ef0-c0e36de9162a" alt="Cisco Logo" height="80">
   &nbsp;&nbsp;&nbsp;
