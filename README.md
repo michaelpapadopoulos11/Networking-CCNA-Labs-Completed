@@ -46,15 +46,15 @@ This repository contains the majority of labs that I completed while studying fo
 
 #### Day 27 - [Configuring OSPF (Part 2)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2027%20-%20Configuring%20OSPF%20(Part%202)) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2027%20-%20Configuring%20OSPF%20(Part%202)/readme.md)
 
-#### Day 28/29 - [Configuring HSRP](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2029%20-%20HSRP%20Configuration) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2029%20-%20HSRP%20Configuration)
+#### Day 28/29 - [Configuring HSRP](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2029%20-%20HSRP%20Configuration/readme.md) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2029%20-%20HSRP%20Configuration)
 
-#### Day 30 - [Understanding TCP/UDP with Wireshark](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2030%20-%20Understanding%20TCP%20and%20UDP/readme) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2030%20-%20Understanding%20TCP%20and%20UDP/readme)
+#### Day 30 - [Understanding TCP/UDP with Wireshark](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2030%20-%20Understanding%20TCP%20and%20UDP/readme/readme.md) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2030%20-%20Understanding%20TCP%20and%20UDP/readme)
 
-#### Day 31 - [IPv6 Configuration (Part 1)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2031%20-%20IPv6%20Configuration%20(Part%201)) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2031%20-%20IPv6%20Configuration%20(Part%201))
+#### Day 31 - [IPv6 Configuration (Part 1)](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2031%20-%20IPv6%20Configuration%20(Part%201)/readme.md) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2031%20-%20IPv6%20Configuration%20(Part%201))
 
 #### Day 32 - [IPv6 Configuration (Part 2)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2032%20-%20IPv6%20Configuration%20(Part%202))
 
-#### Day 33 - [IPv6 Configuring Static Routes (Part 3)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2033%20-%20Configuring%20IPv6%20Static%20Routes)
+#### Day 33 - [IPv6 Configuring Static Routes (Part 3)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2033%20-%20Configuring%20IPv6%20Static%20Routes) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2032%20-%20IPv6%20Configuration%20(Part%202)/README.md)
 
 #### Day 34 - [Configuring Standard ACLs](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2034%20-%20Standard%20ACLs)
 
