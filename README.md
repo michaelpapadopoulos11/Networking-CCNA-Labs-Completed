@@ -36,7 +36,7 @@ This repository contains the majority of labs that I completed while studying fo
 
 #### Day 22 - [Rapid STP / Rapid PVST+ Analysis](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2022%20-%20Rapid%20Spanning%20Tree%20Protocol%20Analysis)
 
-#### Day 23 - [Etherchannel](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2023%20-%20Etherchannel)
+#### Day 23 - [Etherchannel](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2023%20-%20Etherchannel) + [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2023%20-%20Etherchannel/Etherchannel%20Notes)
 
 #### Day 24 - [Floating Static Routes](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2024%20-%20Floating%20Static%20Routes)
 
