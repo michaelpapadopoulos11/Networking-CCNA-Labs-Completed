@@ -74,7 +74,7 @@ This repository contains the majority of labs that I completed while studying fo
 
 #### Day 45 - [Dynamic NAT / PAT](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2045%20-%20Dynamic%20NAT/readme.md) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2045%20-%20Dynamic%20NAT/README.md)
 
-#### Day 46/48 - [Voice VLAN](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2046%20-%20Voice%20VLANS)
+#### Day 46/48 - [Voice VLAN](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2046%20-%20Voice%20VLANS/readme.md) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2046%20-%20Voice%20VLANS/README.md)
 
 #### Day 49 - [Port Security](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2049%20-%20Port%20Security)
 
