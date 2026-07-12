@@ -14,7 +14,7 @@ This repository contains the majority of labs that I completed while studying fo
 
 #### Day 3/4 - [Basic Device Security and Encryption](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%204%20-%20Basic%20Device%20Security%20and%20Encryption) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%204%20-%20Basic%20Device%20Security%20and%20Encryption/readme.md)
 
-#### Day 5/6 - [Ethernet LAN Switching](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%206%20-%20Ethernet%20LAN%20Switching)
+#### Day 5/6 - [Ethernet LAN Switching](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%206%20-%20Ethernet%20LAN%20Switching) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%206%20-%20Ethernet%20LAN%20Switching/readme.md)
 
 #### Day 7/8 - [Configuring IPv4 Addresses](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%208%20-%20IPv4%20Addresses)
 
