@@ -26,7 +26,7 @@ This repository contains the majority of labs that I completed while studying fo
 
 #### Day 16 - [Intro to VLANs (Part 1)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2016%20-%20VLANS) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2016%20-%20VLANS/readme.md)
 
-#### Day 17 - [VLANS (Part 2) - Trunking & "Router on a stick"](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2017%20-%20VLANs%20(Part%202)%20Trunking%20%26%20ROAS)
+#### Day 17 - [VLANS (Part 2) - Trunking & "Router on a stick"](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2017%20-%20VLANs%20(Part%202)%20Trunking%20%26%20ROAS) - [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2017%20-%20VLANs%20(Part%202)%20Trunking%20%26%20ROAS/readme.md)
 
 #### Day 18 - [Multilayer Switches](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2018%20-%20Multilayer%20Switching)
 
