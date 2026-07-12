@@ -1,4 +1,4 @@
-## Day 59 - Network Automation (Part 1):
+## Day 59 - Introduction to Network Automation
 <div style="display:flex; justify-content:center; gap:20px; align-items:center; flex-wrap:wrap;">
 <img src="https://github.com/user-attachments/assets/35580402-bc45-40d8-8212-baa43d937841" alt="59-1" width="300" />
 <img src="https://github.com/user-attachments/assets/df0eee70-9a10-48b7-9f2d-1c3faf61959a" alt="59-2" width="300" />
@@ -6,14 +6,14 @@
 
 ---
 
-## Day 60 - JSON / YAML / XML
+## Day 60 - JSON, XML, and YAML
 <div style="display:flex; justify-content:center; gap:20px; align-items:center; flex-wrap:wrap;">
 <img src="https://github.com/user-attachments/assets/1802350a-7193-4aa6-83e7-6b03cb414134" alt="60-1" width="300" />
 </div>
 
 ---
 
-## Day 61 - REST API
+## Day 61 - REST APIs
 <div style="display:flex; justify-content:center; gap:20px; align-items:center; flex-wrap:wrap;">
 <img src="https://github.com/user-attachments/assets/e6d8029c-f7fa-4935-93b0-3147d5ef9683" alt="61-1" width="300" />
 <img src="https://github.com/user-attachments/assets/fc4d585f-33f1-4672-a993-4b9afbaf48ad" alt="61-2" width="300" />
