@@ -70,7 +70,7 @@ This repository contains the majority of labs that I completed while studying fo
 
 #### Day 41/43 - [Syslog](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2041%20-%20Syslog) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2041%20-%20Syslog/readme.md)
 
-#### Day 44 - [Static NAT](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2044%20-%20Static%20NAT)
+#### Day 44 - [Static NAT](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2044%20-%20Static%20NAT) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2044%20-%20Static%20NAT/readme.md)
 
 #### Day 45 - [Dynamic NAT / PAT](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2045%20-%20Dynamic%20NAT)
 
