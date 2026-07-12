@@ -40,7 +40,7 @@ This repository contains the majority of labs that I completed while studying fo
 
 #### Day 24 - [Floating Static Routes](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2024%20-%20Floating%20Static%20Routes) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2024%20-%20Floating%20Static%20Routes/readme.md)
 
-#### Day 25 - [Configuring EIGRP](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2025%20-%20Configuring%20EIGRP)
+#### Day 25 - [Configuring EIGRP](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2025%20-%20Configuring%20EIGRP) - [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2025%20-%20Configuring%20EIGRP/readme.md)
 
 #### Day 26 - [Configuring OSPF (Part 1)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2026%20-%20Configuring%20OSPF%20(Part%201))
 
