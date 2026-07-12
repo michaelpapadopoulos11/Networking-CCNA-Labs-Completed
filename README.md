@@ -44,7 +44,7 @@ This repository contains the majority of labs that I completed while studying fo
 
 #### Day 26 - [Configuring OSPF (Part 1)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2026%20-%20Configuring%20OSPF%20(Part%201)) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2026%20-%20Configuring%20OSPF%20(Part%201)/readme.md)
 
-#### Day 27 - [Configuring OSPF (Part 2)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2027%20-%20Configuring%20OSPF%20(Part%202))
+#### Day 27 - [Configuring OSPF (Part 2)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2027%20-%20Configuring%20OSPF%20(Part%202)) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2027%20-%20Configuring%20OSPF%20(Part%202)/readme.md)
 
 #### Day 28/29 - [Configuring HSRP](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2029%20-%20HSRP%20Configuration)
 
