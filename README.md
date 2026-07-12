@@ -32,7 +32,7 @@ This repository contains the majority of labs that I completed while studying fo
 
 #### Day 19/20 - [Analyzing Spanning-Tree Protocol (STP)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2020%20-%20Spanning-Tree%20Protocol) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2020%20-%20Spanning-Tree%20Protocol/readme.md)
 
-#### Day 21 - [Configuring STP (PVST+)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2021%20-%20Configuring%20STP)
+#### Day 21 - [Configuring STP (PVST+)](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2021%20-%20Configuring%20STP) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%2021%20-%20Configuring%20STP/readme.md)
 
 #### Day 22 - [Rapid STP / Rapid PVST+ Analysis](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2022%20-%20Rapid%20Spanning%20Tree%20Protocol%20Analysis)
 
