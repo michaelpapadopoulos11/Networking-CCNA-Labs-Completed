@@ -16,7 +16,7 @@ This repository contains the majority of labs that I completed while studying fo
 
 #### Day 5/6 - [Ethernet LAN Switching](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%206%20-%20Ethernet%20LAN%20Switching) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%206%20-%20Ethernet%20LAN%20Switching/readme.md)
 
-#### Day 7/8 - [Configuring IPv4 Addresses](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%208%20-%20IPv4%20Addresses)
+#### Day 7/8 - [Configuring IPv4 Addresses](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%208%20-%20IPv4%20Addresses) - [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%208%20-%20IPv4%20Addresses/readme.md)
 
 #### Day 9/11 (Pt 1) - [Configuring Static Routes](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%2011%20Pt%201%20-%20Configuring%20Static%20Routes)
 
