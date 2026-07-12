@@ -8,9 +8,9 @@ This repository contains the majority of labs that I completed while studying fo
 
 ### Lab Index
 
-#### Day 1 - [Introduction to Packet Tracer](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%201%20-%20Introduction%20to%20Packet%20Tracer)
+#### Day 1 - [Introduction to Packet Tracer](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%201%20-%20Introduction%20to%20Packet%20Tracer) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%201%20-%20Introduction%20to%20Packet%20Tracer/readme.md)
 
-#### Day 2 - [Interfaces and Cables](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%202%20-%20Interfaces%20and%20Cables) | [Notes Day 1/2](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%201%20-%20Introduction%20to%20Packet%20Tracer/readme.md)
+#### Day 2 - [Interfaces and Cables](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%202%20-%20Interfaces%20and%20Cables)
 
 #### Day 3/4 - [Basic Device Security and Encryption](https://github.com/michaelpapadopoulos11/CCNA-Networking-Labs-Completed/tree/main/CCNA_Completed_Labs/Day%204%20-%20Basic%20Device%20Security%20and%20Encryption) | [Notes](https://github.com/michaelpapadopoulos11/Networking-CCNA-Labs-Completed/blob/main/CCNA_Completed_Labs/Day%204%20-%20Basic%20Device%20Security%20and%20Encryption/readme.md)
 
